@@ -30,6 +30,12 @@ pip install -r requirements.txt
 pip install -r requirements.txt
 ```
 
+##### Ou : 
+
+```bash
+pip3 install -r requirements.txt
+```
+
 ### COMMANDES : 
 
 Pour générer un diplome : 
