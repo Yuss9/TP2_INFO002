@@ -259,7 +259,7 @@ if __name__ == "__main__":
     if sys.argv[1] == '--generate':
         if len(sys.argv) != 9:
             print('Not enough arguments, try :')
-            print('python main.py --generate ./diplome.png ./diplome_output.png 095462187AP CHAVANCE Remi 15.5 1548A9G8ER')
+            print('python main.py --generate ./diplome.png ./diplome_output.png 095462187AP CHAVANCE Remi 16.5 1548A9G8ER')
             sys.exit()
         generateDiploma(
             img_file_path=sys.argv[2],
@@ -278,7 +278,7 @@ if __name__ == "__main__":
         verifyDiploma(img_path=sys.argv[2])
     else:
         print("""
-            python main.py --generate ./diplome.png ./diplome_output.png 095462187AP CHAVANCE Remi 15.5 1548A9G8ER
+            python main.py --generate ./diplome.png ./diplome_output.png 095462187AP CHAVANCE Remi 16.5 1548A9G8ER
             to generate a diploma
             or 
             python main.py --verify ./diplome_output.png'
