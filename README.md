@@ -4,10 +4,13 @@ Sujet : https://pierre-hyvernat.apps.math.cnrs.fr/data/Enseignement/2324/info002
 
 GITHUB : https://github.com/Yuss9/TP2_INFO002
 
+#### IMPORTANT 
+Toutes les commandes fonctionnent correctement.
+
 ### STATUS 
 
 Equipe : YURTSEVEN Hüseyin, CHAVANCE Rémi, DURAND-NOËL Amaury
-
+Etat : on a fait toutes les questions, sauf la partie bonus.
 
 ### SET UP LE PROJET : 
 
